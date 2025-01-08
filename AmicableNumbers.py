@@ -1,3 +1,4 @@
+# Josh Gibb
 import math
 
 # A method that returns the sum of all factors
